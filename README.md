@@ -1,4 +1,4 @@
-#### I am Arun 🙋.
+#### I am Arun 🙋
 I am an intermediate skilled Web Developer 💻.  I love to code projects which are fun to do and also which bring me learning experience✊🏼😾.  I enjoy trying out new stuff from different languages to different frameworks 👀
 
 <hr/>
