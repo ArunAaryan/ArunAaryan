@@ -11,9 +11,8 @@ I am an intermediate skilled Web Developer 💻.  I love to code projects which 
 
 
 ### About now: 
-- 🔭 I’m currently working on a project called gatepass using React.
-- 🌱 I’m currently learning authentication practices using express in the backend and react in the frontend
-- 👯 I’m looking to collaborate on web projects written in Django, flask, express, react.
+- 🔭 I’m currently working on a mini social networking project.
+
 - 📫 To reach me on <a href="https://www.linkedin.com/in/arun-aaryan-5740a355/">linkedIn </a> Click here!
 - To reach me on <a  href= "https://www.instagram.com/arunaaryan_/" >instagram</a> Click here
 - My HackerRank Profile <a href="https://www.hackerrank.com/ArunAaryan"> arunaaryan@hackerrank </a>
