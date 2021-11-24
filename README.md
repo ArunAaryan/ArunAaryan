@@ -11,7 +11,7 @@ I am a Web Developer 💻.  I love to code projects which are fun to do and also
 
 
 ### About now: 
-- 🔭 I’m currently working on building my own password manager.
+- 🔭 I’m currently working on a blog using NEXT JS.
 
 - 📫 To reach me on <a href="https://www.linkedin.com/in/arun-aaryan-5740a355/">linkedIn </a> Click here!
 - To reach me on <a  href= "https://www.instagram.com/arunaaryan_/" >instagram</a> Click here
